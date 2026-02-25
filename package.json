@@ -5,9 +5,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miiv0/performance-dashboard-api.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miiv0/performance-dashboard-api/issues"
+  },
+  "homepage": "https://github.com/miiv0/performance-dashboard-api#readme",
   "description": "",
   "dependencies": {
     "cors": "^2.8.6",
