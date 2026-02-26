@@ -1,3 +1,7 @@
+DROP TYPE IF EXISTS Employee CASCADE;
+DROP TABLE IF EXISTS programmers CASCADE;
+DROP TABLE IF EXISTS designers CASCADE;
+
 CREATE TYPE Employee AS (
     name TEXT,
     email TEXT,
